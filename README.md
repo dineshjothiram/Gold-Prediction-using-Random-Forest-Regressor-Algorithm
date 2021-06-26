@@ -1,4 +1,4 @@
-# Gold-Price-Prediction-using-Random-Forest-Regressor-Algorithm-Python
+# Gold Price Prediction using Random Forest Regressor Algorithm | Python
 
 **Necessary Python Libraries**
 
